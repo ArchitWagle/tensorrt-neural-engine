@@ -1,4 +1,5 @@
 # TensorRT Inference Engine
+#### NOTE: Please download and unzip the source-code of the libtorch library in lib folder before compiling
 The following are the steps to build this project  
 All the commands below are to be executed in directory`inference/build-dir`
 
